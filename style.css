@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&family=Potta+One&display=swap');
+
+body{
+  background-color: rgba(214, 210, 210, 0.151);
+}
+
+h1{
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+}
+
+#fcs{
+  color: orange;
+}
+
+section{
+  display: flex;
+}
+
+#half-width{
+  font-size: 27px;
+  width: 100%;
+  padding-left: 2%;
+}
+
+.half-width img{
+  width: 80%;
+  
+}
+
+.hiremebutton{
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  color: white  ;
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 5px;
+
+}
