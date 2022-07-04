@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&family=Potta+One&display=swap');
 
 body{
-  background-image: url(/images/top-banner.png);
+  background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
   font-size: 25px;
   font-family: 'Poppins', sans-serif;
@@ -48,7 +48,7 @@ section{
   padding-left: 5%;
 }
 .creative-dev{
-background-image: url(/images/dream-bg.png);
+background-image: url(images/dream-bg.png);
 background-repeat: no-repeat;
 background-position: right 100%;
 }
